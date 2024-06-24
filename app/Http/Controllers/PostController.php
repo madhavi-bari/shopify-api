@@ -197,7 +197,7 @@ class PostController extends Controller
                 "Yanbu",
                 "Zulfi"
             ],
-            'GB' => [
+            'JO' => [
                 "Amman",
                 "Irbid",
                 "Az Zarqā’",
